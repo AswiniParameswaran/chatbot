@@ -4,7 +4,7 @@ from elevenlabs.client import ElevenLabs
 
 
 
-ELEVENLABS_API_KEY = "sk_0035a9d1f90817fe5b42bfe228ad8f4388954a595b245eae"
+
 
 client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
 
