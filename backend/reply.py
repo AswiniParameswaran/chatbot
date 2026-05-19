@@ -3,7 +3,7 @@ import os
 from google import genai
 
 
-GEMINI_API_KEY =("AIzaSyB1NnthN0X13xjZlPyloZ2R3IgIk7MSonU")
+
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
